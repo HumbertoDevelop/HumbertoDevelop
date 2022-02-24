@@ -15,9 +15,9 @@
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
- * **Data Bases** 🗃️. 
- * **JAVA**☕. 
+ * **Data Bases**. 🗃️ 
+ * **JAVA**. ☕ 
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garc%C3%ADa-29a75b217).
- * **Phone**:+58-412-093-9794 📱.
- * **Email**: humbertodev14@gmail.com 📨.
+ * **Phone**:+58-412-093-9794. 📱
+ * **Email**: humbertodev14@gmail.com. 📨
