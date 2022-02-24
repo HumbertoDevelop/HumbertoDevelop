@@ -8,14 +8,13 @@
  * React Js 
  * Sass 
 ## 🌟 I Can Help You With:
- * **Responsive Web Design** - Sass, Tailwind
+ * **Responsive Web Design** - Tailwind
  * **JavaScript** 
  * **React/Redux/Mobx/ContextApi**
  * **Website Optimization**
  * **SEO improvements**
  * **Code restructuring**
 ## 🌱 I’m currently learning:
- * Laravel
  * Data Bases 🗃️ 
  * JAVA☕ 
 ## 📫 How to reach me 
