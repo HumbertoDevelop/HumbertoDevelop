@@ -16,7 +16,8 @@
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
  * **Data Bases**. 🗃️ 
- * **Python**. 👨🏽‍💻
+ * **Java** ☕
+ * **NodeJs**. 👨🏽‍💻
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garc%C3%ADa-29a75b217).
  * **Phone**:+58-412-093-9794. 📱
