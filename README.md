@@ -20,7 +20,7 @@
  * **NodeJs**. 👨🏽‍💻
 ## 🤓 Basic knowledge:
  * **Sql**.
- * **MySql*.
+ * **MySql**.
  * **Data bases**.
  * **Php**.
  * **Laravel**.
