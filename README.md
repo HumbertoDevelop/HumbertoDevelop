@@ -7,6 +7,9 @@
  * **JavaScript**.
  * **React Js**.
  * **Sass**.
+ * **TailWind Css*.
+ * **Bootstrapp**.
+ * **Laravel 8**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design** - Tailwind.
  * **JavaScript**.
@@ -18,11 +21,8 @@
  * **Data Bases**.
  * **NodeJs**. 
  * **MySql**.
-## 🤓 Basic knowledge:
- * **Sql**.
- * **MySql**.
- * **Data bases**.
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
  * **Email**:humbertodev14@gmail.com. 📨
+ * **Portfolio**: https://myzone-humbertodevelop.netlify.app/ 🔥
