@@ -11,7 +11,7 @@
  * **Bootstrapp**.
  * **Laravel 8**.
 ## 🌟 I Can Help You With:
- * **Responsive Web Design** - Tailwind.
+ * **Responsive Web Design** - **Tailwind - Bootstrap**.
  * **JavaScript**.
  * **React/Redux/Mobx/ContextApi**.
  * **Website Optimization**.
