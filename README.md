@@ -19,7 +19,8 @@
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
  * **Data Bases**.
- * **NodeJs**. 
+ * **Python**.
+ * **Web Scraping**. 
  * **MySql**.
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
