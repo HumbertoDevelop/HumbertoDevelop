@@ -26,4 +26,4 @@
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
  * **Email**:humbertodev14@gmail.com. 📨
- * **Portfolio**: https://myzone-humbertodevelop.netlify.app/ 🔥
+ * **Portfolio**: https://myzone-humbertodevelop.netlify.app/
