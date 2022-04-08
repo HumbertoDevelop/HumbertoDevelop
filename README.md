@@ -7,7 +7,7 @@
  * **JavaScript**.
  * **React Js**.
  * **Sass**.
- * **TailWind Css*.
+ * **TailWind Css**.
  * **Bootstrapp**.
  * **Laravel 8**.
 ## 🌟 I Can Help You With:
