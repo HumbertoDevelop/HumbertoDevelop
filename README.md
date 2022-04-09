@@ -9,19 +9,17 @@
  * **Sass**.
  * **Tailwind Css**.
  * **Bootstrapp**.
- * **Laravel 8**.
+ * **Laravel 8 (MySql - APIs)**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
  * **JavaScript**.
- * **React/Redux/Mobx/ContextApi**.
+ * **React Js/Redux/Mobx/ContextApi**.
  * **Website Optimization**.
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
- * **Data Bases**.
  * **Python**.
  * **Web Scraping**. 
- * **MySql**.
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
