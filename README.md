@@ -10,6 +10,7 @@
  * **Tailwind Css**.
  * **Bootstrapp**.
  * **Laravel 8 (MySql - APIs)**.
+ * **WordPress**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
  * **JavaScript**.
