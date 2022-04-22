@@ -1,5 +1,5 @@
 ![myBanner](https://github.com/HumbertoDevelop/HumbertoDevelop/blob/main/humberto.png)
-## 👋 I am Humberto Garcia, a student of systems engineering, I am currently in the middle of my professional career. ☕🌐
+## 👋 I am Humberto Garcia, student of systems engineering. ☕🌐
 
 ## 💻 My skills: 
  * **Html**.
@@ -19,7 +19,7 @@
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
- * **WordPress**. 
+ * **Scrum**. 
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
