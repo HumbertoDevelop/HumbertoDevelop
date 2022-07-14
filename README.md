@@ -19,7 +19,7 @@
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
- * **C#**. 
+ * **Php**. 
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
