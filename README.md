@@ -10,7 +10,6 @@
  * **Tailwind Css**.
  * **Bootstrap**.
  * **Gulp**.
- * **Jquery**.
  * **Git**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
@@ -28,4 +27,3 @@
  * [LinkedIn](https://www.linkedin.com/mwlite/in/humberto-garcia).
  * **Phone**:+58-412-093-9794. 📱
  * **Email**:humbertodev14@gmail.com. 📨
- * **Portfolio**: https://humbertogarcia.netlify.app/
