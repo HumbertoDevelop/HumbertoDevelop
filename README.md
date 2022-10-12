@@ -13,7 +13,6 @@
  * **Material UI**.
  * **Gulp**.
  * **Git**.
- * **Linux**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
  * **JavaScript**.
