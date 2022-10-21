@@ -24,10 +24,8 @@
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
- * **Node Js**.
  * **MySql**.
- * **NFTS**.
- * **Gatsby.js**.
+ * **BackEnd - Php OOP - Python**.
 ## 📫 How to reach me 
  * [LinkedIn](https://www.linkedin.com/in/humberto-gar-rojas/).
  * **Phone**:+58-412-093-9794. 📱
