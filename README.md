@@ -1,5 +1,5 @@
 ![myBanner](https://github.com/HumbertoDevelop/HumbertoDevelop/blob/main/humberto.png)
-## 👋 I am Humberto Garcia, student of systems engineering. ☕🌐
+## 👋 I am Humberto Garcia, System Engeneer. ☕🌐
 
 ## 💻 My skills: 
  * **Html**.
