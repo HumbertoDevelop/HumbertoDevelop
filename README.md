@@ -28,6 +28,6 @@
  * **MySql**.
  * **BackEnd - Php OOP - Python**.
 ## 📫 How to reach me 
- * [LinkedIn](https://www.linkedin.com/in/humberto-gar-rojas/).
+ * [LinkedIn]([https://www.linkedin.com/in/humberto-gar-rojas/](https://www.linkedin.com/in/humberto-garcia14/).
  * **Phone**:+58-412-093-9794. 📱
  * **Email**:humbertodev14@gmail.com. 📨
