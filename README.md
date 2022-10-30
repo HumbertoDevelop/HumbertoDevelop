@@ -1,6 +1,6 @@
 ![myBanner](https://github.com/HumbertoDevelop/HumbertoDevelop/blob/main/humberto.png)
 ## 👋 I am Humberto Garcia, System Engeneer. ☕🌐
-<div align="center" width="100%>
+<div align="center">
 ![Gylphy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 </div>
 ## 💻 My skills: 
