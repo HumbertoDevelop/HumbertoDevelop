@@ -26,6 +26,7 @@
  * **SEO improvements**.
  * **Code restructuring**.
 ## 👨🏽‍💻 I’m currently learning:
+ * **Docker**.
  * **MySql**.
  * **BackEnd - Php OOP - Python**.
 ## 📫 How to reach me.
