@@ -28,6 +28,7 @@
  * **MySql**.
  * **BackEnd - Php OOP - Python**.
 ## 📫 How to reach me 
- * (https://www.linkedin.com/in/humberto-garcia14/).
+ * [Know me on LinkedIn](https://www.linkedin.com/in/humberto-garcia14/).
  * **Phone**:+58-412-093-9794. 📱
  * **Email**:humbertodev14@gmail.com. 📨
+ <a src="https://img.shields.io/badge/LinkedIn-Know%20me%20on%20LinkedIn%20-blue"></a>
