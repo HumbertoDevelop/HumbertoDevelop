@@ -15,9 +15,7 @@
  * **Material UI**.
  * **Gulp**.
  * **Git**.
- * **Php**.
  * **Laravel**.
- * **WordPress**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
  * **JavaScript**.
