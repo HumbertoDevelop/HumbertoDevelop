@@ -16,6 +16,8 @@
  * **Gulp**.
  * **Git**.
  * **Laravel**.
+ * **TDDLaravel**.
+ * **Figma**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
  * **JavaScript**.
