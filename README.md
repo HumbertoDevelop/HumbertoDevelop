@@ -28,8 +28,8 @@
 ## 👨🏽‍💻 I’m currently learning:
  * **Docker**.
  * **MySql**.
- * **BackEnd - Php OOP - Python**.
+ * **BackEnd**.
 ## 📫 How to reach me.
  * [Know me on LinkedIn](https://www.linkedin.com/in/humberto-garcia14/).
- * **Phone**:+58-412-093-9794. 📱
+ * **Phone**:+58-412-594-3044. 📱
  * **Email**:humbertodev14@gmail.com. 📨
