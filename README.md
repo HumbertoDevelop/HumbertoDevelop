@@ -1,22 +1,16 @@
 ![myBanner](https://github.com/HumbertoDevelop/HumbertoDevelop/blob/main/humberto.png)
-## 👋 I am Humberto García, System Engineer. ☕🌐
+## 👋 I am Humberto García, Front-End Engineer. ☕🌐
 ![Gylphy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ## 💻 My skills: 
- * **Html**.
- * **Css**.
- * **JavaScript**.
- * **Jquery**.
  * **React Js**.
+ * **Next Js**.
  * **Sass**.
  * **TypeScript**.
  * **Tailwind Css**.
  * **Bootstrap**.
- * **Material UI**.
  * **Gulp**.
  * **Git**.
- * **Laravel**.
- * **TDDLaravel**.
  * **Figma**.
 ## 🌟 I Can Help You With:
  * **Responsive Web Design**.
@@ -30,6 +24,6 @@
  * **MySql**.
  * **BackEnd**.
 ## 📫 How to reach me.
- * [Know me on LinkedIn](https://www.linkedin.com/in/humberto-garcia14/).
+ * [Know me on LinkedIn](https://www.linkedin.com/in/humbertogarciadv/).
  * **Phone**:+58-412-594-3044. 📱
  * **Email**:humbertodev14@gmail.com. 📨
