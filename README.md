@@ -5,11 +5,18 @@
 ## 💻 My skills: 
  * **React Js**.
  * **Next Js**.
- * **Sass**.
+ * **Redux**.
+ * **Context Api**.
  * **TypeScript**.
+ * **NPM**.
+ * **Node Js**.
+ * **MVC**.
+ * **Flux**.
+ * **MySql**.
+ * **Sql**.
+ * **Vite**.
  * **Tailwind Css**.
  * **Bootstrap**.
- * **Gulp**.
  * **Git**.
  * **Figma**.
 ## 🌟 I Can Help You With:
