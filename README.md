@@ -10,9 +10,6 @@
  * **TypeScript**.
  * **NPM**.
  * **Node Js**.
- * **MVC**.
- * **MySql**.
- * **Sql**.
  * **Vite**.
  * **Tailwind Css**.
  * **Bootstrap**.
